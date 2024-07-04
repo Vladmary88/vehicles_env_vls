@@ -5,3 +5,5 @@ Esta aplicación web es una muestra de la visualización de lo que se puede real
 En cuanto a la utilización de Render, se puede utilizar para para el alojamiento de apps.
 
 La presente Aplicación Web funciona para la visualización de gráficos referentes a los vehiculos del mercado, con la posibilidad de generar histogramas o diagramas de dispersión.
+
+Para poder generar estos gráficos es necesario dar clic en los botones correspondientes.
